@@ -1,0 +1,30 @@
+/* Search VC */
+"search.title" = "Search";
+"search.tabBarItem" = "Search";
+"search.placeholder.noresult" = "No results";
+"search.placeholder.searchNews" = "Search news";
+
+/* Settings VC */
+"settingsVC.title" = "Settings";
+/* Channels VC */
+"news.title" = "News";
+"news.tabBarItem" = "News";
+"news.titleCell.allNews" = "All news";
+"news.messageLabel" = "Select your favorite channels";
+"unreadNewsLabel" = "%d unread news";
+/* News VC */
+"markAsReadButton" = "Mark as read";
+"numberOfYears" = "%d years ago";
+"numberOfMonths" = "%d months ago";
+"numberOfDays" = "%d days ago";
+"numberOfHours" = "%d hours ago";
+"numberOfMinutes" = "%d minutes ago";
+"numberOfSeconds" = "%d seconds ago";
+"momentAgo" = "moment ago";
+/* result of errors */
+"error.invalideRequest" = "You have a invalide request.";
+"error.invalidResponse" = "There was something wrong with the response that came back.";
+"error.notConnectedToInternet" = "No internet connection. Check and try again.";
+"error.errorCannotFindHost" = "A server with the specified hostname could not be found";
+"error.timeOut" = "Request time limit exceeded";
+

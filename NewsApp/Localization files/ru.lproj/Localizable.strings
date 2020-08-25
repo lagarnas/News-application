@@ -1,0 +1,28 @@
+/* Search VC */
+"search.title" = "Поиск";
+"search.tabBarItem" = "Поиск";
+"search.placeholder.noresult" = "Нет результатов";
+"search.placeholder.searchNews" = "Поиск новостей";
+/* Settings VC */
+"settingsVC.title" = "Настройки";
+/* News Collection VC */
+"news.title" = "Новости";
+"news.tabBarItem"= "Новости";
+"news.titleCell.allNews" = "Все новости";
+"news.messageLabel" = "Выберите свои любимые каналы";
+"unreadNewsLabel" = "%d непрочитанных новостей";
+/* News VC */
+"markAsReadButton" = "Прочитать все";
+"numberOfYears" = "%d лет назад";
+"numberOfMonths" = "%d месяцев назад";
+"numberOfDays" = "%d дней назад";
+"numberOfHours" = "%d часов назад";
+"numberOfMinutes" = "%d минут назад";
+"numberOfSeconds" = "%d секунд назад";
+"momentAgo" = "только что";
+/* result of errors */
+"error.invalideRequest" = "Данные не удалось прочитать, так как они имеют неверный формат.";
+"error.invalidResponse" = "Что-то не так с ответом сервера.";
+"error.notConnectedToInternet" = "Подключение к интернету отсуствует.";
+"error.errorCannotFindHost" = "Не удалось найти сервер с указанным именем хоста";
+"error.timeOut" = "Превышен лимит времени на запрос";

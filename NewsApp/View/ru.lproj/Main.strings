@@ -1,0 +1,30 @@
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "cKE-nZ-4zN"; */
+//"cKE-nZ-4zN.title" = "Настройки";
+
+/* Class = "UILabel"; text = "All News"; ObjectID = "FES-w3-ffv"; */
+//"FES-w3-ffv.text" = "Все новости";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "Fr3-Cj-QNE"; */
+//"Fr3-Cj-QNE.title" = "Поиск";
+
+/* Class = "UILabel"; text = "subtitle"; ObjectID = "ibt-34-9En"; */
+//"ibt-34-9En.text" = "subtitle";
+
+/* Class = "UITabBarItem"; title = "News"; ObjectID = "o3d-wb-pa1"; */
+//"o3d-wb-pa1.title" = "Новости";
+
+/* Class = "UILabel"; text = "subtitle"; ObjectID = "oDs-xu-nff"; */
+//"oDs-xu-nff.text" = "subtitle";
+
+/* Class = "UINavigationItem"; title = "News"; ObjectID = "S6y-u9-w2T"; */
+//"S6y-u9-w2T.title" = "Новости";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "teg-zv-W6U"; */
+//"teg-zv-W6U.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "X5V-yV-98T"; */
+//"X5V-yV-98T.title" = "Поиск";
+
+/* Class = "UILabel"; text = "Select your favorite channels"; ObjectID = "XeM-uZ-o49"; */
+//"XeM-uZ-o49.text" = "Выберите свой любимый канал";
+
